@@ -4,6 +4,7 @@ phase genuinely EXECUTES on the bare python-3.13-base image.
 Run via repo test_command_override = "python -m unittest -v". The marker rides
 back in the result-envelope stdout, proving real execution (not byte-flow).
 """
+
 import unittest
 
 from calc import add, mul
