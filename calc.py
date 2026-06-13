@@ -7,3 +7,8 @@ def add(a: int, b: int) -> int:
 
 def mul(a: int, b: int) -> int:
     return a * b
+
+
+def subtract(a: int, b: int) -> int:
+    """Return the difference of a and b."""
+    return a - b
