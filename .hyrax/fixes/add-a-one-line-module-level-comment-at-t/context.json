@@ -1,0 +1,14 @@
+{
+  "affected_projects": [],
+  "audit_job_id": null,
+  "category": "",
+  "created_at": "2026-06-13T13:53:30.620967+00:00",
+  "file": "",
+  "line": null,
+  "mode": "directive",
+  "project_path": null,
+  "ref": "add-a-one-line-module-level-comment-at-t",
+  "severity": "",
+  "title": "Add a one-line module-level comment at the very top of the primary Python modul\u2026",
+  "tool": "task"
+}
